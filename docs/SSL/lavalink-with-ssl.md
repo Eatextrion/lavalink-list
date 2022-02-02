@@ -106,6 +106,13 @@ Password:"mrextinctcodes"
 Secure:"true"
 
 ```
+Hosted by @ [Devin#3583]
+```bash
+host: "https://lavalinknode.eatextrion.repl.co",
+port: 443, // The port that lavalink is listening to. This must be a number!
+pass: "lavalinknode123",
+secure: true,
+```
 
 
 
